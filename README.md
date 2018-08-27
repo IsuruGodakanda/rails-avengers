@@ -21,4 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
+Version Tree 
+
+* V1.0.0 : "First Commit" : 27/08/2018 : 1.30 pm : Isuru Godakanda
+
+* V1.0.1 : "Use postgres as production database" : 27/08/2018 : 2.45 pm : Isuru Godakanda
 * ...
