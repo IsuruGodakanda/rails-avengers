@@ -20,7 +20,7 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * git URL
-https://github.com/isurugodakanda/rails-girls
+git clone https://github.com/IsuruGodakanda/rails-girls.git
 
 * Deployment instructions
 
@@ -51,5 +51,7 @@ Version Tree
 * V1.0.3 : "Add and Delete Comments" : 28/08/2018 : 11.32 am : Isuru Godakanda
 
 * V1.0.4 : "Add contemporary web design" : 28/08/2018 : 1.14 pm : Isuru Godakanda
+
+* V1.0.5 : "Authentication with Device" : 28/08/2018 : 4.37 pm : Isuru Godakanda
 
 * ...
