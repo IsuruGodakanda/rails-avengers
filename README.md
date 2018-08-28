@@ -25,6 +25,7 @@ git clone https://github.com/IsuruGodakanda/rails-girls.git
 * Deployment instructions
 
 * pacific-dusk-91995
+* safe-hamlet-52578
 
 * git commit
 git status
@@ -39,6 +40,7 @@ heroku run rails db:migrate
 
 * Access URL
 https://pacific-dusk-91995.herokuapp.com/
+https://safe-hamlet-52578.herokuapp.com/
 
 Version Tree 
 
