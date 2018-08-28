@@ -50,4 +50,6 @@ Version Tree
 
 * V1.0.3 : "Add and Delete Comments" : 28/08/2018 : 11.32 am : Isuru Godakanda
 
+* V1.0.4 : "Add contemporary web design" : 28/08/2018 : 1.14 pm : Isuru Godakanda
+
 * ...
