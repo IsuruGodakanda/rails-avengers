@@ -24,7 +24,6 @@ git clone https://github.com/IsuruGodakanda/rails-girls.git
 
 * Deployment instructions
 
-* pacific-dusk-91995
 * safe-hamlet-52578
 
 * git commit
@@ -39,7 +38,6 @@ git push heroku master
 heroku run rails db:migrate
 
 * Access URL
-https://pacific-dusk-91995.herokuapp.com/
 https://safe-hamlet-52578.herokuapp.com/
 
 Version Tree 
@@ -55,5 +53,9 @@ Version Tree
 * V1.0.4 : "Add contemporary web design" : 28/08/2018 : 1.14 pm : Isuru Godakanda
 
 * V1.0.5 : "Authentication with Device" : 28/08/2018 : 4.37 pm : Isuru Godakanda
+
+* V1.0.6 : "New Deployment" : 28/08/2018 : 4.30 pm : Isuru Godakanda
+
+* V1.0.7 : "Production Bug" : 28/08/2018 : 4.50 pm : Isuru Godakanda
 
 * ...
