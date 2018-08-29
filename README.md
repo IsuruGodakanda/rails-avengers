@@ -58,4 +58,6 @@ Version Tree
 
 * V1.0.7 : "Production Bug" : 28/08/2018 : 4.50 pm : Isuru Godakanda
 
+* V1.0.8 : "Production sign_out Bug - device.rb" : 29/08/2018 : 11.36 am : Isuru Godakanda
+
 * ...
