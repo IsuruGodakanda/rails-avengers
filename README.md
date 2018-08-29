@@ -60,4 +60,6 @@ Version Tree
 
 * V1.0.8 : "Production sign_out Bug - device.rb" : 29/08/2018 : 11.36 am : Isuru Godakanda
 
+* V1.0.9 : "Production sign_out Bug - rails_12factor" : 29/08/2018 : 1.39 pm : Isuru Godakanda
+
 * ...
