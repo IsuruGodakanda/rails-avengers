@@ -20,7 +20,7 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * git URL
-git clone https://github.com/IsuruGodakanda/rails-girls.git
+git clone https://github.com/IsuruGodakanda/rails-avengers.git
 
 * Deployment instructions
 
@@ -64,5 +64,7 @@ Version Tree
 * V1.0.9 : "Production sign_out Bug - rails_12factor" : 29/08/2018 : 1.39 pm : Isuru Godakanda
 
 * V1.1.0 : "Production sign_out Bug - jquery-rails-Gem" : 29/08/2018 : 4.30 pm : Isuru Godakanda
+
+* V1.1.1 : "Add Gravatar & Rename Git Repo" : 30/08/2018 : 4.48 pm : Isuru Godakanda
 
 * ...
